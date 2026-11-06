@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Aleta de tiburón, símbolo de Regino Contadores">
+  <defs>
+    <linearGradient id="a" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f4f7fb"/>
+      <stop offset="1" stop-color="#8d98ab"/>
+    </linearGradient>
+    <linearGradient id="b" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101728"/>
+      <stop offset="1" stop-color="#04060a"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="url(#b)"/>
+  <rect x="1" y="1" width="62" height="62" rx="14" fill="none" stroke="#ffd21f" stroke-opacity=".55" stroke-width="1.4"/>
+  <path d="M11 43c12-1 21-11 25-30 3 17 9 27 19 30-8 0-14 2-22 6-7-3-14-5-22-6z" fill="url(#a)"/>
+  <path d="M10 52c5-3 9-3 13 0s9 3 13 0 9-3 13 0 4 2 5 2" fill="none" stroke="#ffd21f" stroke-width="2.4" stroke-linecap="round"/>
+</svg>
